@@ -55,7 +55,6 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Dan_Liang10
-  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #- icon:cv
@@ -75,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-I am a field ecologist with broad interests in ecology, evolution, and conservation biology. My main research aims to understand how human-induced disturbances impact biodiversity. I began with my research interests on birds in Eastern Himalayan, where I studied life history of alpine birds, including the Fire-tailed Myzornis and Fire-tailed Sunbirds. My PhD work looked at how urbanization affects stress responses and multiple dimensions of niche characteristics of sub-tropical bird communities in Southwest China. For my postdoc, I am working with Prof. David Wilcove to try to understand the extent and mignitude of illegal hunting of terrestrial vertebrates in China and the combined effects of hunting or by-catch on populations of birds, especially those birds migrate along the East Asian- Australasia Flyway.
+I am a **conservation scientist** with broad interests in ecology, evolution, and conservation. My main research aims to understand how human-induced disturbances impact biodiversity. I began with my research interests on **birds in Eastern Himalayan**, where I studied life history of alpine birds, including the Fire-tailed Myzornis and Fire-tailed Sunbirds. My PhD work looked at how urbanization affects stress responses and multiple dimensions of niche characteristics of sub-tropical bird communities in Southwest China. For my postdoc, I am working with Prof. David Wilcove to try to understand the extent and mignitude of **illegal hunting** of terrestrial vertebrates in China and the combined effects of hunting or by-catch on populations of birds, especially those birds migrate along the East Asian- Australasia Flyway.
 
-Prior to Princeton, I received my PhD degree in Zoology from Sun Yat-sen University (2018), and received my master degree in Zoology (2015) and my bachelor degree in Wildlife and Nature Reserve Management (2012) from Southwest Forestry University in China.
+Prior to Princeton, I received my PhD degree in Zoology from **Sun Yat-sen University (2018)** in Guangzhou, and received my master degree in Zoology (2015) and my bachelor degree in Wildlife and Nature Reserve Management (2012) from **Southwest Forestry University** in Kunming, China.
