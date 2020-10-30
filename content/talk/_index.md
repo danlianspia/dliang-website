@@ -9,6 +9,6 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
+  caption: "Illegal hunting threatened terrestrial vertebrates in China talk at University of Florida"
   image: ""
 ---
