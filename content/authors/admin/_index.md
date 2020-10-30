@@ -46,12 +46,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DanLiang10
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com.hk/citations?user=1A2UJvYAAAAJ&hl=-EN
 - icon: github
   icon_pack: fab
   link: https://github.com/dliangwws
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com.hk/citations?user=1A2UJvYAAAAJ&hl=-EN
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Dan_Liang10
