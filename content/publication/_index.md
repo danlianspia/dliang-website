@@ -6,10 +6,10 @@ title: Publications
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 4
+view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header: Niches in the Anthropocene: passerine assemblages show niche expansion from natural to urban habitats
-  caption: ""
+header: 
+  caption: "Niches in the Anthropocene: passerine assemblages show niche expansion from natural to urban habitats"
   image: ""
 ---
