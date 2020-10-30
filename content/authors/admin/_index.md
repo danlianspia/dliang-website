@@ -47,13 +47,13 @@ social:
   icon_pack: fab
   link: https://twitter.com/DanLiang10
 - icon: google-scholar
-  icon_pack: ai
+  icon_pack: fab
   link: https://scholar.google.com.hk/citations?user=1A2UJvYAAAAJ&hl=-EN
 - icon: github
-  icon_pack: fab
+  icon_pack: fas
   link: https://github.com/dliangwws
 - icon: researchgate
-  icon_pack: fab
+  icon_pack: fas
   link: https://www.researchgate.net/profile/Dan_Liang10
   
 # Link to a PDF of your resume/CV from the About widget.
