@@ -10,6 +10,6 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header: 
-  caption: "Niches in the Anthropocene: passerine assemblages show niche expansion from natural to urban habitats"
+  caption: "Pagani‐Núñez, E., Liang, D., He, C., Zhou, X., Luo, X., Liu, Y. and Goodale, E., 2019. Niches in the Anthropocene: passerine assemblages show niche expansion from natural to urban habitats. Ecography, 42(8), 1360-1369."
   image: ""
 ---
